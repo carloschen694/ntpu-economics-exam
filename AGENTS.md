@@ -26,7 +26,7 @@ Secondbrain/
 |------|------|------|---------|
 | L1 | 本地 | AGENTS.md + handoff.md | 每個 session |
 | L2 | GitHub | https://github.com/carloschen694/ntpu-economics-exam | 指定時 |
-| L3 | Obsidian | vault 根目錄 | 有需要時 |
+| L3 | Obsidian | vault 根目錄 + 專案工作流程.md | 有需要時 |
 
 ## 獨立專案
 - `Projects/economics-exam-bank/` 有自己的 repo（carloschen694/economics-exam-bank），vault 不追蹤其內容
