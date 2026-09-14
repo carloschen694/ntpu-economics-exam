@@ -16,9 +16,13 @@
 ```
 Secondbrain/
 ├── Projects/
-│   └── economics-exam-bank/
+│   └── economics-exam-bank/     # 獨立 repo，vault 不追蹤
+├── skills/
+│   └── obsidian-mcp/
 ├── .obsidian/
-└── AGENTS.md
+├── AGENTS.md
+├── handoff.md
+└── 專案工作流程.md
 ```
 
 ## 同步層級
