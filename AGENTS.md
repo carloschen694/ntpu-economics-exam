@@ -25,8 +25,11 @@ Secondbrain/
 | 層級 | 平台 | 位置 | 讀取時機 |
 |------|------|------|---------|
 | L1 | 本地 | AGENTS.md + handoff.md | 每個 session |
-| L2 | GitHub | 未啟用 | 指定時 |
+| L2 | GitHub | https://github.com/carloschen694/ntpu-economics-exam | 指定時 |
 | L3 | Obsidian | vault 根目錄 | 有需要時 |
+
+## 獨立專案
+- `Projects/economics-exam-bank/` 有自己的 repo（carloschen694/economics-exam-bank），vault 不追蹤其內容
 
 ## 工作約定
 - 開工先讀 handoff.md，收工必更新 handoff.md
