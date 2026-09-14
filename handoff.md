@@ -26,4 +26,4 @@
 ## 🕐 最後更新
 - 時間：2026-09-14 22:56
 - 更新者：opencode @ WH-26112-NB
-- Git push：待推（灰色案，未含 Untitled 1.canvas）
+- Git push：✅ 已推（docs: 收工同步 AGENTS.md / handoff.md / 專案工作流程.md）
