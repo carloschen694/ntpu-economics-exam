@@ -1,0 +1,35 @@
+# 敏感資訊
+.env
+*.key
+*.pem
+
+# 系統檔案
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 專案特定
+*.db
+*.sqlite
+
+# 獨立 git repo（各自有 remote，不嵌入 vault）
+.agents/
+Projects/economics-exam-bank/
+
+# 本機敏感設定
+.claude/settings.local.json
+.obsidian/plugins/obsidian-local-rest-api/data.json
